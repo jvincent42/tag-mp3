@@ -1,0 +1,13 @@
+{
+    "name": "First Page",
+    "main": "index.html",
+    "window": {
+        "always-on-top" : true,
+        "resizable": false,
+        "focus": true,
+        "width": 400,
+        "height": 400,
+        "frame": true,
+        "toolbar": false
+    }
+}
